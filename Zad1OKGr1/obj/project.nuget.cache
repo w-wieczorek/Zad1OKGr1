@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "K5hWI7LBHI+5u4qRyCTbyW6my+yDoFFGXEJEh35uAX0olGoX6jpdwD7CBcY0rtRS/3zxix2OtCguiaCJOvYpcg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ggody\\RiderProjects\\Zad1OKGr1\\Zad1OKGr1\\Zad1OKGr1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ggody\\.nuget\\packages\\google.ortools\\9.7.2996\\google.ortools.9.7.2996.nupkg.sha512",
+    "C:\\Users\\ggody\\.nuget\\packages\\google.ortools.runtime.linux-arm64\\9.7.2996\\google.ortools.runtime.linux-arm64.9.7.2996.nupkg.sha512",
+    "C:\\Users\\ggody\\.nuget\\packages\\google.ortools.runtime.linux-x64\\9.7.2996\\google.ortools.runtime.linux-x64.9.7.2996.nupkg.sha512",
+    "C:\\Users\\ggody\\.nuget\\packages\\google.ortools.runtime.osx-arm64\\9.7.2996\\google.ortools.runtime.osx-arm64.9.7.2996.nupkg.sha512",
+    "C:\\Users\\ggody\\.nuget\\packages\\google.ortools.runtime.osx-x64\\9.7.2996\\google.ortools.runtime.osx-x64.9.7.2996.nupkg.sha512",
+    "C:\\Users\\ggody\\.nuget\\packages\\google.ortools.runtime.win-x64\\9.7.2996\\google.ortools.runtime.win-x64.9.7.2996.nupkg.sha512",
+    "C:\\Users\\ggody\\.nuget\\packages\\google.protobuf\\3.23.3\\google.protobuf.3.23.3.nupkg.sha512"
+  ],
+  "logs": []
+}
